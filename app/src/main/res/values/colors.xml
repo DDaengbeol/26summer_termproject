@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#315C48</color>
+    <color name="primary_dark">#1F3D31</color>
+    <color name="accent">#C46A3A</color>
+    <color name="surface">#F7F5F0</color>
+    <color name="screen_white">#FFFFFF</color>
+    <color name="memo_box">#F2F2F4</color>
+    <color name="ios_blue">#007AFF</color>
+    <color name="scan_teal">#41B8AE</color>
+    <color name="image_dark">#1F1F22</color>
+    <color name="image_black">#000000</color>
+    <color name="danger">#FF3B30</color>
+    <color name="text_primary">#202421</color>
+    <color name="text_secondary">#626861</color>
+    <color name="divider">#DDD9D0</color>
+</resources>
