@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="103dp"
+    android:layout_marginBottom="44dp"
+    android:background="@drawable/bg_memo_card"
+    android:paddingStart="24dp"
+    android:paddingTop="18dp"
+    android:paddingEnd="24dp"
+    android:paddingBottom="18dp">
+
+    <TextView
+        android:id="@+id/itemReviewContentTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:textColor="@color/text_primary"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/itemReviewDateTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:textColor="@color/text_primary"
+        android:textSize="11sp" />
+
+    <ImageButton
+        android:id="@+id/itemReviewDeleteButton"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:visibility="gone" />
+</FrameLayout>

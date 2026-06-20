@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Excerption</string>
+    <string name="login">로그인</string>
+    <string name="sign_up">회원가입</string>
+    <string name="logout">로그아웃</string>
+    <string name="books">책</string>
+    <string name="calendar">나의 기록</string>
+    <string name="profile">내 정보</string>
+    <string name="add_book">책 등록</string>
+    <string name="search_books">책 검색</string>
+    <string name="aladin_ttb_key">ttbnayoungin10211909001</string>
+</resources>
